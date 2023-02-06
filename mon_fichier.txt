@@ -1,2 +1,3 @@
 Création d'un fichier
 Nouvelle ligne ajoutee par l utilisateur bis
+ligne conflit utilisateur bis
